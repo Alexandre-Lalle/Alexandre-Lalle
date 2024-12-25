@@ -53,7 +53,7 @@
 
 <div align="left">
   <a href="mailto:alexandrelalle825@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" alt="Gmail logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" alt="Gmail logo" />
   </a>
   <img width="12" />
   <a href="https://linkedin.com/in/alexandre-lalle">
