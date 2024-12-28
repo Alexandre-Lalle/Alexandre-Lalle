@@ -51,18 +51,5 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:alexandrelalle825@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="38" alt="Gmail logo" />
-  </a>
-  <img width="12" />
-  <a href="https://linkedin.com/in/alexandre-lalle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
-  </a>
-</div>
-
-###
-
-<p align="left">
-💼 I'm always open to new opportunities and collaborations!
-</p>
+<p align="left"> ✉️ <strong>Email:</strong> <a href="mailto:alexandrelalle825@gmail.com">alexandrelalle825@gmail.com</a><br> 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/alexandre-lalle">linkedin.com/in/alexandre-lalle</a> </p> 
+<p align="left"> I'm always open to discussing exciting projects or collaborations. Feel free to reach out! </p>
