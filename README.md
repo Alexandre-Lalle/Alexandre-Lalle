@@ -6,19 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ Debugging complex data challenges since 2022<br>
-📚 I'm currently diving deeper into hyperspectral image analysis and machine learning<br>
-🎯 Goals: To contribute to cutting-edge AI research through a PhD program<br>
-🎲 Fun fact: I have worked in four different countries during my early career in Data Science!
-</p>
-
-###
-
 <h2 align="left">Technical Toolbox</h2>
 
 ###
