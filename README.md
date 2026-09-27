@@ -38,5 +38,5 @@
 
 ###
 
-<p align="left"> ✉️ <strong>Email:</strong> <a href="mailto:alexandrelalle825@gmail.com">alexandrelalle825@gmail.com</a><br> 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/alexandre-lalle">linkedin.com/in/alexandre-lalle</a> </p> 
+<p align="left"> ✉️ <strong>Email:</strong> [firstname].[lastname]825@gmail.com<br> 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/alexandre-lalle">linkedin.com/in/alexandre-lalle</a> </p> 
 <p align="left"> I'm always open to discussing exciting projects or collaborations. Feel free to reach out! </p>
